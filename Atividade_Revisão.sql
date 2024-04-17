@@ -1,6 +1,4 @@
---Franciele 
---Jonathas
---Miriã
+
 
 CREATE TABLE livraria (
     id_livraria NUMBER (20) PRIMARY KEY,
