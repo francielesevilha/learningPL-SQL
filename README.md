@@ -31,7 +31,7 @@ Clone o Repositório
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/francielesevilha/learningPL-SQL
 Navegue até o Diretório
 
 bash
@@ -53,7 +53,7 @@ Este repositório é fornecido sob a Licença MIT, a menos que especificado de o
 Contato
 Para perguntas ou comentários, entre em contato:
 
-Seu Nome: seu-email@exemplo.com
-LinkedIn: Seu Perfil
-GitHub: Seu Perfil GitHub
+Seu Nome: Franciele Sevilha
+LinkedIn: www.linkedin.com/in/franciele-sevilha
+GitHub: https://github.com/francielesevilha
 Obrigado por visitar!
